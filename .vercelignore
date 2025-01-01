@@ -1,0 +1,7 @@
+# Don't ignore the pages or public folder
+!pages/
+!public/
+
+# Only ignore node_modules or build artifacts
+node_modules/
+*.log
